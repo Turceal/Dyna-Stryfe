@@ -1,0 +1,7 @@
+﻿hello
+event,Supa Power,13,5,  .dealwithit(),SupaPowerCard.jpg
+event,Supa Power,13,5,  .dealwithit(),SupaPowerCard.jpg
+event,Supa Power,13,5,  .dealwithit(),SupaPowerCard.jpg
+reaction,counter Strike,11,1,when creature attacks opposing creature gains +2 def,CounterStrike.jpg
+reaction,counter Strike,11,1,when creature attacks opposing creature gains +2 def,CounterStrike.jpg
+reaction,counter Strike,11,1,when creature attacks opposing creature gains +2 def,CounterStrike.jpg

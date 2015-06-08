@@ -1,0 +1,19 @@
+power,Earth,1,1,provides earth power,Earthcard.jpg,earth 
+power,Fire,2,1,provides fire power,FireCard.jpg,fire
+power,Water,3,1,provides water power,WaterCard.jpg,water
+power,Wind,4,1,provides wind power,WindCard.jpg,wind
+power,Solar,5,1,provides solar power,SolarCard.jpg,solar
+power,Spiritual,6,1,provides spiritual power,SpiritualCard.jpg,spiritual
+power,Atomic,7,1,provides atmoic power,AtomicCard.jpg,atomic
+creature,Ravenous Hydra,8,3,when summoned gain a blue mana,RevenousHydraCard.jpg,3,2,1
+creature,Deathrite Shaman,9,6,Summon 1/1/1 token creature,DeathrightShamanCard.jpg,3,6,2
+creature,Hounds,10,1,Bites make enemy bleed 1 damage per turn,HoundsCard.jpg,1,1,1
+reaction,counter Strike,11,1,when creature attacks opposing creature gains +2 def,CounterStrike.jpg
+reaction,slash,12,2,when creature attacks deal 2 damage,SlashCard.jpg
+reaction,beta tester,13,5,You win the game,BetaTesterCard.jpg
+event,winner winner chicken dinner,14,5,hi this has a really really long txt field just to see what happens yay,WinnerDinnerCard.jpg
+event,Supa Power,15,5,  .dealwithit(),SupaPo.3
+
+
+
+werCard.jpg
